@@ -26,7 +26,7 @@ h1, h2 {
 }
 
 h1 {
-    margin-bottom: 10px; /* Reduce margin for better spacing */
+    margin-top: 10px; /* Reduce margin for better spacing */
     font-size: 1.5em; /* Adjust font size for smaller screens */
 }
 
